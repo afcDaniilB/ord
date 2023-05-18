@@ -1,25 +1,39 @@
-* {
-    box-sizing: border-box;
-} 
-
-body {
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    margin:50px auto;
-    background-image: url(https://wa11papers.ru/fotoalbom/motocikly?nggpage=2);
+body{
+    background-image: url(http://motowallpapers.ru/wp/harley-davidson/touring/electra-glide-ultra-classic/2016/Harley-Davidson-Touring-Electra-Glide-Ultra-Classic-2016-1920x1080-003.jpg); /* Фоновый цвет и фоновый рисунок*/
+		color: #fff; /*Цвет текста на странице*/
+		background-attachment: fixed; /* Фон страницы фиксируется */
+		background-repeat: repeat-x; /* Изображение повторяется по горизонтали */
 }
-
-.button1 {
-
-width: 250px;
-height: 250px
-}
-.button2{
+div.centre {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    align-content: center;
+    text-align: center;
+  }
+  
+  div.bottomwhitespace {
+    padding-bottom: 100pt;
+    padding-top: 100pt;
+  }
+  
+  .btn-group .button {
+    margin-left: 5%;
+    height: 250px;
     width: 250px;
-    height: 250px
-}
-.button3{
-    width: 250px;
-    height: 250px
-}
+    font: 100;
+    background-color: lightblue;
+    /* Green */
+    margin-top: 35pt;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    /*float: left;*/
+    display: inline-block;
+  }
