@@ -20,11 +20,12 @@ div.centre {
     padding-bottom: 75pt;
     padding-top: 75pt;
   }
-  
+/*
   .btn-group .button1 {
+    display: block;
     border-radius: 15px;
     margin-left: 2.75%;
-    height: 600pt;
+    height: 300pt;
     width: 300pt;
     font: 100;
     background-color: rgba(116, 171, 190, 0.904);
@@ -36,8 +37,6 @@ div.centre {
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     cursor: pointer;
-    /*float:left;*/
-    display: inline-block;
     background-image: url(http://motowallpapers.ru/wp/harley-davidson/touring/electra-glide-ultra-classic/2016/Harley-Davidson-Touring-Electra-Glide-Ultra-Classic-2016-1280x800-010.jpg);
     background-size: cover
   }
@@ -46,11 +45,13 @@ div.centre {
     background-image: url(http://motowallpapers.ru/wp/harley-davidson/touring/electra-glide-ultra-classic/2016/Harley-Davidson-Touring-Electra-Glide-Ultra-Classic-2016-1280x800-009.jpg);
     color: white;
   }
+
   .btn-group .button2 {
+    display: block;
     border-radius: 15px;
     border: 2px solid #ffffff;
     margin-left: 2.75%;
-    height: 600pt;
+    height: 300pt;
     width: 300pt;
     font: 100;
     background-color: rgba(116, 171, 190, 0.904);
@@ -62,8 +63,6 @@ div.centre {
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     cursor: pointer;
-    /*float:left;*/
-    display: inline-block;
     background-image: url(http://motowallpapers.ru/wp/harley-davidson/touring/electra-glide-ultra-classic/2016/Harley-Davidson-Touring-Electra-Glide-Ultra-Classic-2016-1280x800-011.jpg);
     background-size: cover
   }
@@ -72,9 +71,10 @@ div.centre {
     color: white;
   }
   .btn-group .button3 {
+    display: block;
     border-radius: 15px;
     margin-left: 2.75%;
-    height: 600pt;
+    height: 300pt;
     width: 300pt;
     font: 100;
     background-color: rgba(116, 171, 190, 0.904);
@@ -86,8 +86,6 @@ div.centre {
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     cursor: pointer;
-    /*float:left;*/
-    display: inline-block;
     background-image: url(http://motowallpapers.ru/wp/harley-davidson/touring/electra-glide-ultra-classic/2016/Harley-Davidson-Touring-Electra-Glide-Ultra-Classic-2016-1280x800-012.jpg);
     background-size: cover
   }
@@ -95,9 +93,5 @@ div.centre {
     background-image: url(http://motowallpapers.ru/wp/harley-davidson/touring/electra-glide-ultra-classic/2016/Harley-Davidson-Touring-Electra-Glide-Ultra-Classic-2016-1280x800-014.jpg);
     color: white;
   }
+*/
 
-  /*
-  a.menu:hover {
-    background-color:rgb(84, 83, 114);
-    font-size:20px;
-  }*/
